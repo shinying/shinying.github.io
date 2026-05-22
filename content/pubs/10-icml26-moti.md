@@ -18,7 +18,7 @@ authors:
   - name: Zhixin Shu
     home: https://zhixinshu.github.io
 selected: true
-# arxiv: 
+arxiv: https://arxiv.org/abs/2605.22818
 page: https://motimotion.github.io
 # code: https://github.com/motimotion/motimotion
 video: 
